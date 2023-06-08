@@ -1,0 +1,38 @@
+class ContentData{
+
+  int? _id;
+  int? _sectionId;
+  String? _webViewTitle;
+  int? _contentType;
+  String? _mediaUrl;
+  String? _prefix;
+  ProductJson? _productJson;
+  String? _mediaText;
+  String? _youtubeId;
+  String? _altText;
+  String? _hiddenText;
+  String? _redirectUrl;
+  String? _startDate;
+  String? _endDate;
+  String? _offerText;
+  String? _isTimerEnable;
+
+  ContentData({
+    this._id,
+  this._sectionId,
+  this._webViewTitle,
+  this._contentType,
+  this._mediaUrl,
+  this._prefix,
+  this._productJson,
+  this._mediaText,
+  this._youtubeId,
+  this._altText,
+  this._hiddenText,
+  this._redirectUrl,
+  this._startDate,
+  this._endDate,
+  this._offerText,
+  this._isTimerEnable
+  })
+}
