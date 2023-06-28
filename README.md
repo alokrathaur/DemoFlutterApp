@@ -17,6 +17,8 @@ samples, guidance on mobile development, and a full API reference.
 
 Flutter Demo App for Slider Images
 
+Files> Libs> Dart files
+
 Slider
 
 import 'package:flutter/material.dart';
